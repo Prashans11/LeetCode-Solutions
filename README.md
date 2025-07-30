@@ -13,7 +13,7 @@ Each solution focuses on:
 Contains Java solutions (*.java files)
 
 /typeScript-javaScript/
-TypeScript/JavaScript solutions (*.ts files)
+TypeScript/JavaScript solutions (*.ts/ *.js files)
 
 
 ## 🔧 Topics Covered
